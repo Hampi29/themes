@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.dark-about {
+  background-color: black;
+  color: #ffffff;
+}
+.light-about {
+  background-color: #ffffff;
+  color: black;
+}
+.main-container {
+  height: 85vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 100px;
+  width: 100px;
+}

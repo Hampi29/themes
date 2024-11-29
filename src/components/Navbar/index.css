@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.navbar {
+  width: 100vw;
+  height: 15vh;
+  padding: 15px;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+}
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn {
+  border: none;
+  background-color: transparent;
+}
+.dark-about {
+  background-color: black;
+  color: #ffffff;
+}
+.light-about {
+  background-color: #ffffff;
+  color: black;
+}
+.home-about {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.home-element {
+  margin-right: 15px;
+  text-decoration: none;
+}
